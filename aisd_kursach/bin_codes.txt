@@ -1,0 +1,13 @@
+the code of each symbol defined by the huffman algorithm:
+  000
+a 001
+d 010
+e 011
+g 1000
+h 1001
+i 1010
+k 1011
+l 1100
+n 1101
+t 1110
+w 1111
